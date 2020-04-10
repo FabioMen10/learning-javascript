@@ -1,0 +1,3 @@
+[submodule "js-course"]
+	path = js-course
+	url = https://github.com/FabioMen10/js-course.git
