@@ -1,6 +1,6 @@
 {
-  "name": "js-z9rr9x",
+  "name": "js-es6-learning",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {"gsap":"^3.2.6"}
 }
