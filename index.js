@@ -1,4 +1,5 @@
 //GSAP variables
+import { TweenMax, TimelineMax} from 'gsap';
 var master = new TimelineMax({delay:1.5}),
     student = $("#student"),
     studentWhole = $('#stud_whole'),

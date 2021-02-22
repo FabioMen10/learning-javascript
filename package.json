@@ -2,5 +2,7 @@
   "name": "js-es6-learning",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {"gsap":"^3.2.6"}
+  "dependencies": {
+    "gsap": "^3.6.0"
+  }
 }
